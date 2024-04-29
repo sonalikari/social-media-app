@@ -1,4 +1,15 @@
-# my-social-media-app
+# screenshot
+
+![Screenshot (433)](https://github.com/sonalikari/social-media-app/assets/90141326/ebcc9ffd-8c8e-4896-9555-6ca405ac7f69)
+![Screenshot (434)](https://github.com/sonalikari/social-media-app/assets/90141326/94bb5d8f-c2a7-4fbd-9a42-5ab8cd29b11b)
+![Screenshot (430)](https://github.com/sonalikari/social-media-app/assets/90141326/a8e5d6ed-8c75-40a6-9036-1545bec32b24)
+![Screenshot (431)](https://github.com/sonalikari/social-media-app/assets/90141326/462f1089-8f24-440b-aaf0-42890575c2db)
+![Screenshot (432)](https://github.com/sonalikari/social-media-app/assets/90141326/f09bf2a0-a64b-4cf9-a2c1-793b8ff306b4)
+![Screenshot (435)](https://github.com/sonalikari/social-media-app/assets/90141326/a2d5d502-ee55-4454-a8cc-d36cfb4b6977)
+![Screenshot (436)](https://github.com/sonalikari/social-media-app/assets/90141326/76e01f3b-1967-4895-981e-d3a34086cbfe)
+![Screenshot (437)](https://github.com/sonalikari/social-media-app/assets/90141326/17846c15-6c86-450c-9d63-47eed4744b32)
+
+
 
 ## Build Setup
 
